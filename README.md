@@ -1,2 +1,2 @@
-# schoolprojects
-List of projects completed during undergraduate program at Western University.
+# School Projects
+A list of projects completed in classes for my undergraduate degree at Western University.
