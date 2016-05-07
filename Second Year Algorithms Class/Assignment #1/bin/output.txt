@@ -1,3 +1,0 @@
-NOSE
-HEAD
-BODY
