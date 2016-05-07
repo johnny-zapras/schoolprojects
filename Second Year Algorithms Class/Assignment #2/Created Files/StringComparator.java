@@ -1,4 +1,3 @@
-package ToStudents;
 public class StringComparator implements Comparator<String> {
 	
 	public StringComparator(){}					//default constructor for string comparator (doesn't initialize any variables)

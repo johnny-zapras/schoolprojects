@@ -1,4 +1,3 @@
-package ToStudents;
 /*
  * Position.java
  *

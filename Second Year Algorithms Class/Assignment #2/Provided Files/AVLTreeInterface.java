@@ -1,4 +1,3 @@
-package ToStudents;
 // This is the interface for the AVLTree class 
 
 import java.util.Iterator;

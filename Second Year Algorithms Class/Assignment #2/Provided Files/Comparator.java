@@ -1,4 +1,3 @@
-package ToStudents;
 /* Comparator Interface.  Has to have only one method, the method used for comparison */
 
 

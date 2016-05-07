@@ -1,6 +1,4 @@
 /* Comparator for Integers */
-package ToStudents;
-
 public class IntegerComparator implements Comparator<Integer>{
     public IntegerComparator(){}
    

@@ -1,4 +1,3 @@
-package ToStudents;
 public class DictEntry<K,V> {
 	
 	//member variables

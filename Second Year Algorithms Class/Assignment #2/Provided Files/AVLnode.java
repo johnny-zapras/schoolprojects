@@ -1,5 +1,3 @@
-package ToStudents;
-
 public class AVLnode<K,V> implements Position<K,V> {
     private AVLnode<K,V> parent;          // reference to the parent node
     private AVLnode<K,V> left;            // reference to the left child
